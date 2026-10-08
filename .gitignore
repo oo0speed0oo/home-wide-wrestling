@@ -1,0 +1,17 @@
+# Made by the builds (python game/tools/make_release.py); the playable web copy lives on the gh-pages branch
+build/
+build_web/
+dist/
+Home Wide Wrestling - Version */
+
+# Archives (the release and website-upload zips, the art zips)
+*.zip
+*.7z
+zips files/
+
+# The exported arena previews copied next to the game's own arena layers (the same files are in export/arenas)
+game/assets/arenas/*_8frames.png
+
+# Python's own scratch files
+__pycache__/
+*.pyc

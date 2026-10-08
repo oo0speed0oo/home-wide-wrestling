@@ -1,0 +1,107 @@
+{
+ "solo": {
+  "cell": [
+   64,
+   76
+  ],
+  "feet": [
+   32,
+   66
+  ],
+  "columns": [
+   "down-right frame 1",
+   "down-right frame 2",
+   "down-left frame 1",
+   "down-left frame 2",
+   "up-right frame 1",
+   "up-right frame 2",
+   "up-left frame 1",
+   "up-left frame 2"
+  ],
+  "rows": [
+   "stand",
+   "walk",
+   "run",
+   "punch",
+   "kick",
+   "block",
+   "taunt",
+   "hit",
+   "stunned",
+   "knocked down",
+   "get up",
+   "tie-up",
+   "lift",
+   "throw",
+   "being lifted",
+   "being thrown",
+   "pin",
+   "stomp",
+   "dive",
+   "boston crab",
+   "sit up",
+   "headlock",
+   "knee lift",
+   "clothesline",
+   "dropkick",
+   "knee drop",
+   "elbow drop",
+   "back drop",
+   "pile driver",
+   "rope whip",
+   "shoulder throw",
+   "climb",
+   "on top rope",
+   "victory",
+   "running lariat",
+   "headbutt",
+   "seated butt drop"
+  ]
+ },
+ "pairs": {
+  "cell": [
+   96,
+   96
+  ],
+  "attacker_feet": [
+   48,
+   70
+  ],
+  "files": "stew_vs_<victim>_pairs.png",
+  "columns": [
+   "down-right frame 1",
+   "down-right frame 2",
+   "down-left frame 1",
+   "down-left frame 2",
+   "up-right frame 1",
+   "up-right frame 2",
+   "up-left frame 1",
+   "up-left frame 2"
+  ],
+  "rows": [
+   "punch",
+   "kick",
+   "tie-up",
+   "lift",
+   "throw",
+   "stomp",
+   "pin",
+   "boston crab",
+   "dive",
+   "headlock",
+   "knee lift",
+   "brain buster",
+   "pile driver",
+   "back drop",
+   "rope whip",
+   "shoulder throw",
+   "clothesline",
+   "dropkick",
+   "flying knee drop",
+   "post slam",
+   "running lariat",
+   "headbutt",
+   "seated butt drop"
+  ]
+ }
+}

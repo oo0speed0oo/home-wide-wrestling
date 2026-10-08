@@ -1,0 +1,5 @@
+# The Mac and Linux launchers must keep Unix line endings
+*.sh text eol=lf
+*.command text eol=lf
+# The Windows launcher keeps Windows line endings
+*.bat text eol=crlf

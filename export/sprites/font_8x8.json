@@ -1,0 +1,9 @@
+{
+ "cell": [
+  8,
+  8
+ ],
+ "columns": 16,
+ "order": "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!?.,'\"-:/#&()@ ",
+ "note": "@ is the copyright sign"
+}

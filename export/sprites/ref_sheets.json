@@ -1,0 +1,31 @@
+{
+ "solo": {
+  "cell": [
+   64,
+   76
+  ],
+  "feet": [
+   32,
+   66
+  ],
+  "columns": [
+   "down-right frame 1",
+   "down-right frame 2",
+   "down-left frame 1",
+   "down-left frame 2",
+   "up-right frame 1",
+   "up-right frame 2",
+   "up-left frame 1",
+   "up-left frame 2"
+  ],
+  "rows": [
+   "stand",
+   "walk",
+   "pin count",
+   "count out",
+   "ask submit",
+   "raise hand",
+   "call for bell"
+  ]
+ }
+}
